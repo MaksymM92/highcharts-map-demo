@@ -1,0 +1,13 @@
+.maps {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.map-wrapper {
+  border: 1px solid rgba(128, 128, 128, 0.3);
+  width: 100%;
+  margin: 10px;
+  padding: 10px;
+  box-sizing: border-box;
+}
